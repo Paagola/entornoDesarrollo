@@ -41,6 +41,7 @@ Proceso freirHuevo
 				Limpiar Pantalla;
 			Sino 
 				Escribir "Coje otro huevo!!";
+				Limpiar Pantalla;
 			FinSi
 		Sino
 			Limpiar Pantalla;
@@ -51,3 +52,4 @@ Proceso freirHuevo
 	FinMientras
 
 ```
+
