@@ -1,3 +1,9 @@
+### PRIMERA TAREA: FREIR UN HUEVO
+
+Esta tarea consiste en hacer un algoritmo para hacer el paso a paso de hacer un huevo, hay que añadir dos tipos de bucles, un **if** y un **while**
+
+Este programa está hecho en *PsInt*
+
 ```code
 
 Proceso freirHuevo
@@ -52,4 +58,5 @@ Proceso freirHuevo
 	FinMientras
 
 ```
+
 
